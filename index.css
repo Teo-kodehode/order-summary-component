@@ -121,6 +121,7 @@ button{
 
     main{
         max-width: 21em;
+        margin-top: 5vh;
     }
 
     #priceplan{
