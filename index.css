@@ -23,6 +23,7 @@ main{
     padding-bottom: 2em;
     border-radius: 1em;
     box-shadow: 0 1em 0.7em -5px hsl(226, 43%, 87%);
+    margin-bottom: 0.7em;
 }
 
 h1{
