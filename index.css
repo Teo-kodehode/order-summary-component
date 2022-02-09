@@ -33,7 +33,7 @@ h1{
     font-weight: 900;
 }
 
-p{
+#infobox{
     font-size: 16px;
     max-width: 70%;
     color: hsl(224, 23%, 55%);
@@ -72,6 +72,7 @@ p{
 }
 #pricing p{
     margin: 0;
+    color: hsl(224, 23%, 55%);
 }
 
 
