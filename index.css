@@ -45,6 +45,11 @@ p{
     font-weight: 700;
 }
 
+#change:hover{
+    color:hsl(225, 66%, 61%);
+    text-decoration: none;
+}
+
 #priceplan{
     display: flex;
     background-color: hsl(225, 100%, 98%);
@@ -75,10 +80,6 @@ p{
     width: 100%;
 }
 
-button{
-    font-family: 'Red Hat Display', sans-serif;
-}
-
 #proceed{
     margin-top: 0.7em;
     background-color: hsl(245, 75%, 52%);
@@ -93,6 +94,10 @@ button{
     min-width: 75%;
 }
 
+#proceed:hover{
+    background-color: hsl(225, 81%, 62%);
+}
+
 #cancel {
     background-color: white;
     border: none;
@@ -104,7 +109,9 @@ button{
     padding: 0.5em 0.7em;
 }
 
-
+#cancel:hover{
+    color:black;
+}
 
 
 
